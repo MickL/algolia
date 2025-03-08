@@ -1,6 +1,6 @@
 
 import type { DocSearchTranslations } from '@docsearch/react'
-import type { InternalDocSearchHit, StoredDocSearchHit } from '@docsearch/react/dist/esm/types'
+import type { InternalDocSearchHit, StoredDocSearchHit } from '@docsearch/react'
 import type { SearchIndex } from 'algoliasearch'
 
 export interface AlgoliaIndices {}
@@ -973,7 +973,7 @@ export type HitComponentFunc = (props: {
   hit: InternalDocSearchHit | StoredDocSearchHit;
   // Avoid importing React types there
   children: any; // React.ReactNode;
-}) => JSX.Element
+}) => any
 
 export enum InstantSearchThemes {
   'reset',

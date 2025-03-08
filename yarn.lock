@@ -534,7 +534,7 @@
     "@docsearch/react" "3.9.0"
     preact "^10.0.0"
 
-"@docsearch/react@3.9.0":
+"@docsearch/react@3.9.0", "@docsearch/react@^3.9.0":
   version "3.9.0"
   resolved "https://registry.yarnpkg.com/@docsearch/react/-/react-3.9.0.tgz#d0842b700c3ee26696786f3c8ae9f10c1a3f0db3"
   integrity sha512-mb5FOZYZIkRQ6s/NWnM98k879vu5pscWqTLubLFBO87igYYT4VzVazh4h5o/zCvTIZgEt3PvsCOMOswOUo9yHQ==
@@ -6220,7 +6220,7 @@ nth-check@^2.0.1, nth-check@^2.1.1:
   dependencies:
     boolbase "^1.0.0"
 
-nuxt@^3.8.0:
+nuxt@^3.16.0:
   version "3.16.0"
   resolved "https://registry.yarnpkg.com/nuxt/-/nuxt-3.16.0.tgz#07e23f1e4636dcc2807587080110034f9cef7699"
   integrity sha512-4j2tuHo+kcComQ1WrCD+i1w3UFOHrcnNH30cwiEY/WZZlBZOlC6DtUm6aBjhfpBFaMYsF4PbyKsNW+7FHwckHA==
